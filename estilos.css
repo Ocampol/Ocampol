@@ -1,0 +1,14 @@
+ul ol{
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.navbar li a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    display: inline;
+}
+
